@@ -2,7 +2,7 @@
 title: Bosch H-Pump Info
 description: Just a page to document general H Pump info
 published: true
-date: 2025-04-19T13:55:22.499Z
+date: 2025-04-20T13:55:46.962Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T22:18:45.427Z
@@ -35,6 +35,23 @@ Has correct pilot diameter
 All bolt holes need to be redrilled
 Has a big mount on the pump casting from the factory application, might need to cut it off
 Haven't ran on a truck yet
+
+### The 045 Pump has the following ID tag
+015 Assembly code or internal control code
+BOSCH Manufacturer
+0842800119 H Bosch production control / internal number
+0 402 796 045 Bosch Pump part number
+PES6H120/320RS30 Pump series, plunger size, cam profile, rotation, and governor type
+3978796 Customer = Volvo part number
+
+PES Inline Mechanical injection pump
+6 number of cylinders
+H left-hand rotation
+120 Plunger element size (12.0mm)
+/320 Camshaft specification degree or stroke
+RS governor type RSV-E or RSV-EDC
+30 specific governor varian
+
 
 ## 0-402-796-041 & 0-402-796-044
 RP43, 11mm elements, 14mm cam lift
@@ -96,4 +113,7 @@ Lift pump will be against the block so it needs to be blocked off
 - Don't be afraid of core pumps or used pumps on eBay, every used pump I've purchased so far has only needed a reseal. Purchased a handful of international pumps through eBay, everyone has showed up so far and they won’t let the buyer get screwed either way.
 - This all might seem like a lot but I’ve seen what guys are paying for reman pumps with Chinese parts in them, you could come out cheaper with more capability for less if you’re a DIY kinda person.
 - I can be reached via [Facebook](https://www.facebook.com/barberautomotivesolutions/about)
+
+### Torque Chart
+![pe_toque_chart.png](/pe_toque_chart.png)
 
