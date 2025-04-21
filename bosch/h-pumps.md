@@ -2,7 +2,7 @@
 title: Bosch H-Pump Info
 description: Just a page to document general H Pump info
 published: true
-date: 2025-04-20T13:55:46.962Z
+date: 2025-04-21T16:36:13.057Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T22:18:45.427Z
@@ -117,3 +117,12 @@ Lift pump will be against the block so it needs to be blocked off
 ### Torque Chart
 ![pe_toque_chart.png](/pe_toque_chart.png)
 
+### Wiring
+#### Main Plug Harness
+1. Fuel solenoid Sensor Signal - Green
+2. Fuel Solenoid 1 - Brown
+3. Timing Solenoid 1 - Blue
+4. Timing Solenoid 2 - White
+5. Fuel Solenoid Sensor Ground - Black
+6. Fuel Solenoid Sensor Positive - Red
+7. Fuel Solenoid 2 - Brown/White
