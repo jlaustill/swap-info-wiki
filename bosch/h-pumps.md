@@ -2,7 +2,7 @@
 title: Bosch H-Pump Info
 description: Just a page to document general H Pump info
 published: true
-date: 2025-04-22T12:27:50.696Z
+date: 2025-04-22T14:38:07.909Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T22:18:45.427Z
