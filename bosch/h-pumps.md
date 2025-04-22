@@ -2,7 +2,7 @@
 title: Bosch H-Pump Info
 description: Just a page to document general H Pump info
 published: true
-date: 2025-04-21T16:36:13.057Z
+date: 2025-04-22T12:27:50.696Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T22:18:45.427Z
@@ -126,3 +126,7 @@ Lift pump will be against the block so it needs to be blocked off
 5. Fuel Solenoid Sensor Ground - Black
 6. Fuel Solenoid Sensor Positive - Red
 7. Fuel Solenoid 2 - Brown/White
+
+## References
+[dauntless89 build(cumminsforum.com)](https://www.cumminsforum.com/threads/d89-and-the-heinous-h-pump-hack.2204338/?fbclid=IwY2xjawJ0aWdleHRuA2FlbQIxMAABHtwKO9FwjyXolpycKaCozgBFbJyENcIw2p5APM-5-sHu__Taoc9ax1yGSzmJ_aem_50Um09JgBK_yZA7c0gbm9A#replies)
+[Barber Automotive Solutions LLC(facebook)](https://www.facebook.com/barberautomotivesolutions)
