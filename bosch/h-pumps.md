@@ -2,7 +2,7 @@
 title: Bosch H-Pump Info
 description: Just a page to document general H Pump info
 published: true
-date: 2025-04-22T14:38:07.909Z
+date: 2025-04-23T19:23:50.582Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T22:18:45.427Z
@@ -51,6 +51,11 @@ H left-hand rotation
 /320 Camshaft specification degree or stroke
 RS governor type RSV-E or RSV-EDC
 30 specific governor varian
+
+### 045 part numbers
+* 2418529988 delivery valve
+* 2410120021 top hat for sprint
+* 2414618012 dv spring
 
 
 ## 0-402-796-041 & 0-402-796-044
